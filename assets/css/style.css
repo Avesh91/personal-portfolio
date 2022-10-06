@@ -1884,3 +1884,10 @@
   .project-title:hover{
     color:hsl(45, 54%, 58%) ;
   }
+
+/*nav button  */
+  @media (max-width: 480px) {
+    .navbar-link{
+      border: none;
+    }
+  }
